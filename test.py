@@ -5,6 +5,7 @@ import tensorflow as tf
 from test_executor import ExecuteurDeTests
 from Speech_Model import SpeechModel
 import itertools
+#this is a comment
 
 class TestStatistics:
 
