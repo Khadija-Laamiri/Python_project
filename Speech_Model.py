@@ -1,7 +1,6 @@
 import abc
 import math
 import tensorflow as tf
-from tensorflow.contrib.layers import xavier_initializer
 from speech_input import charge_entree
 
 class SpeechModel:
